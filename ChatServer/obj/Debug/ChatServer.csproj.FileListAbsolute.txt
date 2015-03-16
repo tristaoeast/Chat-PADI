@@ -1,0 +1,9 @@
+z:\Documents\Visual Studio 2012\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\cygwin64\home\TMC\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\cygwin64\home\TMC\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\cygwin64\home\TMC\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\cygwin64\home\TMC\ChatServer\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\cygwin64\home\TMC\ChatServer\ChatServer\ChatServer\bin\Debug\ClassLibrary1.dll
+C:\cygwin64\home\TMC\ChatServer\ChatServer\ChatServer\bin\Debug\ClassLibrary1.pdb
+C:\cygwin64\home\TMC\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\cygwin64\home\TMC\ChatServer\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
